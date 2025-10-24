@@ -4,6 +4,7 @@ import one from "@/assets/images/a/1.jpg";
 import one2 from "@/assets/images/a/2.jpg";
 import one3 from "@/assets/images/a/3.jpg";
 import one4 from "@/assets/images/a/4.jpg";
+import one5 from "@/assets/images/a/5.jpg";
 
 // Replace with your actual photos & captions
 const photos = ref([
@@ -12,7 +13,7 @@ const photos = ref([
   { src: one3, caption: "מסיבה ראשונה 🎶" },
   { src: one4, caption: "סתם סלפי מצחיק 🤪" },
   {
-    src: "src/assets/images/a/5.jpg",
+    src: one5,
     caption: "עושים שטויות במסיבה 🤸🏻‍♂️",
   },
   { src: "src/assets/images/a/6.jpg", caption: "נצנצים ✨" },
