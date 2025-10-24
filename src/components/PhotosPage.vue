@@ -1,12 +1,16 @@
 <script setup lang="ts">
 import { ref } from "vue";
+import one from "@/assets/images/a/1.jpg";
+import one2 from "@/assets/images/a/2.jpg";
+import one3 from "@/assets/images/a/3.jpg";
+import one4 from "@/assets/images/a/4.jpg";
 
 // Replace with your actual photos & captions
 const photos = ref([
-  { src: "src/assets/images/a/1.jpg", caption: "התמונה הראשונה שלנו 💕" },
-  { src: "src/assets/images/a/2.jpg", caption: "פעם ראשונה שהכנת לי אוכל 🍝" },
-  { src: "src/assets/images/a/3.jpg", caption: "מסיבה ראשונה 🎶" },
-  { src: "src/assets/images/a/4.jpg", caption: "סתם סלפי מצחיק 🤪" },
+  { src: one, caption: "התמונה הראשונה שלנו 💕" },
+  { src: one2, caption: "פעם ראשונה שהכנת לי אוכל 🍝" },
+  { src: one3, caption: "מסיבה ראשונה 🎶" },
+  { src: one4, caption: "סתם סלפי מצחיק 🤪" },
   {
     src: "src/assets/images/a/5.jpg",
     caption: "עושים שטויות במסיבה 🤸🏻‍♂️",
