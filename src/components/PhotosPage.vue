@@ -73,7 +73,7 @@ import one71 from "@/assets/images/a/71.jpg";
 import one72 from "@/assets/images/a/72.jpg";
 import one73 from "@/assets/images/a/73.jpg";
 import one74 from "@/assets/images/a/74.jpg";
-import one755 from "@/assets/images/a/75.jpg";
+import one755 from "@/assets/images/a/75.png";
 import one76 from "@/assets/images/a/76.jpg";
 import one77 from "@/assets/images/a/77.jpg";
 import one78 from "@/assets/images/a/78.jpg";
