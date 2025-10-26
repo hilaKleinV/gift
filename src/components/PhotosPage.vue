@@ -102,7 +102,7 @@ import one100 from "@/assets/images/a/100.jpg";
 import one101 from "@/assets/images/a/101.jpg";
 import one102 from "@/assets/images/a/102.jpg";
 import one103 from "@/assets/images/a/103.jpg";
-import one104 from "@/assets/images/a/104.jpg";
+import one104 from "@/assets/images/a/104.JPG";
 import one105 from "@/assets/images/a/105.jpg";
 import one106 from "@/assets/images/a/106.jpg";
 import one107 from "@/assets/images/a/107.jpg";
