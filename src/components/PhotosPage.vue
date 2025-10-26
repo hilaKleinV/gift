@@ -67,14 +67,13 @@ import one64 from "@/assets/images/a/64.jpg";
 import one65 from "@/assets/images/a/65.jpg";
 import one66 from "@/assets/images/a/66.jpg";
 import one67 from "@/assets/images/a/67.jpg";
-import one68 from "@/assets/images/a/68.jpg";
 import one69 from "@/assets/images/a/69.jpg";
 import one70 from "@/assets/images/a/70.jpg";
 import one71 from "@/assets/images/a/71.jpg";
 import one72 from "@/assets/images/a/72.jpg";
 import one73 from "@/assets/images/a/73.jpg";
 import one74 from "@/assets/images/a/74.jpg";
-import one75 from "@/assets/images/a/75.jpg";
+import one755 from "@/assets/images/a/75.jpg";
 import one76 from "@/assets/images/a/76.jpg";
 import one77 from "@/assets/images/a/77.jpg";
 import one78 from "@/assets/images/a/78.jpg";
@@ -286,7 +285,7 @@ const photos = ref([
     caption: "פעם ראשונה שראינו את השקיעה בשובר גלים ואנחנו צריכות שוב!",
   },
   {
-    src: one75,
+    src: one755,
     caption: "מתלהבת מהטכנולוגיה של הצ׳אט לקראת תאילנד",
   },
   { src: one76, caption: "פעם אחרונה שתמכתי בספיר" },
