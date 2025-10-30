@@ -22,6 +22,9 @@
       <router-link to="/reasons" class="option-button"
         >💖 30 Reasons why I Love You</router-link
       >
+      <router-link to="/surprise" class="option-button"
+        >🎁 Open me!</router-link
+      >
 
       <!-- NEW -->
     </div>

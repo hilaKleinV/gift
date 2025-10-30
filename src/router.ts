@@ -6,6 +6,7 @@ import Quizgame from "@/components/Quizgame.vue";
 import Timeline from "@/components/Timeline.vue";
 import PhotosPage from "@/components/PhotosPage.vue";
 import ReasonsPage from "@/components/ReasonsPage.vue";
+import SurprisePage from "@/components/SurprisePage.vue";
 
 const routes: RouteRecordRaw[] = [
   {
@@ -25,6 +26,7 @@ const routes: RouteRecordRaw[] = [
     component: PhotosPage,
   },
   { path: "/reasons", name: "Reasons", component: ReasonsPage },
+  { path: "/surprise", name: "Surprise", component: SurprisePage },
 ];
 
 const router = createRouter({
